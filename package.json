@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eoovipaul/evi-sdk.git"
+    "url": "git+https://github.com/eoovi/evi-sdk.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eoovipaul/evi-sdk/issues"
+    "url": "https://github.com/eoovi/evi-sdk/issues"
   },
-  "homepage": "https://github.com/eoovipaul/evi-sdk#readme",
+  "homepage": "https://github.com/eoovi/evi-sdk#readme",
   "devDependencies": {
     "@types/jest": "^24.0.11",
     "jest": "^24.7.1",
